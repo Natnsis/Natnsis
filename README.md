@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Natalia (Natnsis)
+# 👋 Hello, I'm Natnael (Natnsis)
 
 ### 🚀 Full-Stack Developer | React & Laravel Specialist | Open-Source Enthusiast
 
