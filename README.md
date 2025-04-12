@@ -14,6 +14,8 @@ I build high-performance web and mobile applications with modern stacks. Passion
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
 ### Mobile & Styling
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
@@ -29,7 +31,7 @@ I build high-performance web and mobile applications with modern stacks. Passion
 
 ## 📊 GitHub Analytics
 <div align="center">
-  
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natnsis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Natnsis&theme=radical&hide_border=true)
@@ -44,4 +46,3 @@ I build high-performance web and mobile applications with modern stacks. Passion
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:nsisay49@gmail.com)
 
 ---
-
