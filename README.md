@@ -29,14 +29,25 @@ I build high-performance web and mobile applications with modern stacks. Passion
 
 ---
 
+
+
 ## 📊 GitHub Analytics
+
 <div align="center">
+
   
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natnsis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Natnsis&theme=radical&hide_border=true)
 
+
+
 </div>
+
+
 
 ---
 
