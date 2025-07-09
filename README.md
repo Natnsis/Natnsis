@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Natnael (Natnsis)
 
-### 🚀 Full-Stack Developer | React & Laravel Specialist | Open-Source Enthusiast
+### 🚀 Full-Stack Developer | React & Express.js Specialist | Open-Source Enthusiast
 
 I build high-performance web and mobile applications with modern stacks. Passionate about clean architecture and developer experience.
 
@@ -13,7 +13,6 @@ I build high-performance web and mobile applications with modern stacks. Passion
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
