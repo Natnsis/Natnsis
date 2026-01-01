@@ -3,7 +3,6 @@
 Junior Software Developer | Computer Science Graduate
 
 **Portfolio:** https://portfolio-ochre-gamma-qo1o5kn8o5.vercel.app/  
-**LinkedIn:** https://www.linkedin.com/in/natnael-sisay-orcadev/
 
 ## About
 Computer Science graduate and junior software developer focused on building practical, real-world applications. I work across the full stack, learn fast, and value clean, maintainable code.
