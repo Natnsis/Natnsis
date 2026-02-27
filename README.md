@@ -1,5 +1,3 @@
-# Natnael Sisay
-
 Junior Software Developer | Computer Science Graduate
 
 **Portfolio:** https://portfolio-ochre-gamma-qo1o5kn8o5.vercel.app/  
