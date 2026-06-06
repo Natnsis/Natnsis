@@ -23,6 +23,3 @@ I care deeply about understanding core logic, writing clean code from scratch, a
 ## Connect with Me
 If you want to talk performance optimization, minimal UI design patterns, or just geek out over terminal workflows, feel free to reach out!
 
----
-
-*Visitor count managed via standard repository insight counters.*
