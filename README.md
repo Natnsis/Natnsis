@@ -1,21 +1,30 @@
-# Junior Software Developer | Computer Science Graduate
+# Full-Stack Engineer | TypeScript • Go • Dart
 
 **Portfolio:** https://portfolio-ochre-gamma-qo1o5kn8o5.vercel.app/  
+![Profile Views](https://komarev.com/ghpvc/?username=Natnsis&color=24292e&style=flat-square&label=Profile+Views)
+
+---
 
 ## About
-Computer Science graduate and junior software developer focused on building practical, real-world applications. I work across the full stack, learn fast, and value clean, maintainable code.
+Hey there! 👋 I'm a software developer who loves building practical, real-world software. Currently, I work in a frontend position, but I am actively expanding my backend horizons. I am transitioning from standard Node.js/Express stacks into writing highly robust, vanilla backend architectures with Go, and will soon be stepping into cross-platform systems with Dart.
 
-## Tech Stack
-- Frontend: React, Next.js, React Native, TypeScript, Tailwind CSS
-- Backend: Node.js, Express, Prisma
-- Databases: MySQL, SQL, Supabase, Postgressql
-- Tools: Git, GitHub, Vite, Linux, Neovim, Httpie
+I care deeply about understanding core logic, writing clean code from scratch, and building software that feels quick and predictable. Always open to collaborating on open-source tools or discussing systems design!
 
-## What I Bring
-- Strong programming fundamentals and problem-solving skills  
-- Experience building and shipping complete projects  
-- Clean, readable, and maintainable code  
-- Fast learner, open to feedback
+## What I'm Up To
+* 💻 **Day Job:** Building responsive, production-ready frontend architectures.
+* ⚙️ **Deep Dive:** Mastering **Go** (currently about 60% of the way through my roadmap to full proficiency, focusing on standard library routing and clean architectures).
+* 🎯 **Next Up:** Diving into **Dart** for modular, cross-platform mobile ecosystem work.
 
-## Goals
-Grow as a professional software developer and contribute to impactful, high-quality products.
+## Ecosystem & Tools
+* **Languages:** TypeScript (Core Expertise), Go (In Progress), Dart (Coming Soon), JavaScript
+* **Frontend:** React, Next.js, Tailwind CSS, React Native
+* **Backend:** Node.js, Express, Go standard HTTP, Prisma
+* **Databases:** PostgreSQL, MySQL, Supabase
+* **Environment:** Linux (Pop!_OS), Neovim, Zellij, Git (HTTPS workflow)
+
+## Connect with Me
+If you want to talk performance optimization, minimal UI design patterns, or just geek out over terminal workflows, feel free to reach out!
+
+---
+
+*Visitor count managed via standard repository insight counters.*
