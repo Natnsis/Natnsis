@@ -2,4 +2,4 @@
 
 # Natnael Sisay
 
-Building with TypeScript and Go.
+Building stuff with TypeScript and Go.
