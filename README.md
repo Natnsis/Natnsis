@@ -1,3 +1,6 @@
+<img width="735" height="202" alt="cielo" src="https://github.com/user-attachments/assets/2f012be0-6b69-4128-8e00-5f13d1fdfa45" />
+
+
 # Full-Stack Engineer | TypeScript • Go • Dart
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Natnsis&color=24292e&style=flat-square&label=Profile+Views)
