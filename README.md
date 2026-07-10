@@ -2,14 +2,4 @@
 
 # Natnael Sisay
 
-Full-Stack Engineer
-
-Building web applications with TypeScript and Go.
-
-**Stack**
-- TypeScript
-- Go
-- React
-- Next.js
-- PostgreSQL
-- Tailwind CSS
+Building with TypeScript and Go.
