@@ -7,5 +7,5 @@ Building stuff with TypeScript and Go.
 ---
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=transparent&hide_border=true&stroke=ffffff&background=00000000" alt="Natnael's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Natnael's GitHub Streak" />
 </p>
