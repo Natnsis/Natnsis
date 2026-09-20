@@ -3,6 +3,7 @@
 # Natnael Sisay
 
 Building stuff with TypeScript and Go.
+portfolio = nasi.work
 
 ---
 
