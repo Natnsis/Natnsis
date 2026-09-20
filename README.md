@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natnsis&theme=tokyo-night&hide_border=true" alt="Natnael's Activity Graph" />
-</p><div align="center">
+<div align="center">
   <img width="1000" alt="cielo" src="https://github.com/user-attachments/assets/2f012be0-6b69-4128-8e00-5f13d1fdfa45" />
 </div>
 
@@ -36,8 +34,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
-### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Natnsis&show_icons=true&theme=tokyonight&hide_border=true" alt="Natnael's GitHub Stats" height="165" />
