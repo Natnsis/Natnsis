@@ -34,12 +34,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natnsis&show_icons=true&theme=tokyonight&hide_border=true" alt="Natnael's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natnsis&theme=tokyonight&hide_border=true" alt="Natnael's GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natnsis&theme=tokyo-night&hide_border=true" alt="Natnael's Activity Graph" />
-</p>
