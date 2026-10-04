@@ -20,7 +20,7 @@
 ### About Me
 
 -  Mid-level Software Engineer on a fintech team — backend microservices in Go, plus frontend work
--  Currently deepening my Go skills, with Kotlin or Rust next on the list
+-  Currently deepening my Go skills, with Rust next on the list
 -  Building side projects across mobile and web — self-discipline apps, live streaming tools, exam-prep platforms
 -  Reach me via [LinkedIn](https://linkedin.com/in/natnael-sisay-orcadev) or check out my work at [nasi.work](https://nasi.work)
 
