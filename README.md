@@ -1,5 +1,7 @@
 <div align="center">
   <img width="1000" alt="cielo" src="https://github.com/user-attachments/assets/2f012be0-6b69-4128-8e00-5f13d1fdfa45" />
+  <img width="1199" height="750" alt="image" src="https://github.com/user-attachments/assets/0752e3f3-53d4-40f3-bc1a-bb3498a8cd3e" />
+
 </div>
 
 <h1 align="center">Hi, I'm Natnael Sisay 👋</h1>
